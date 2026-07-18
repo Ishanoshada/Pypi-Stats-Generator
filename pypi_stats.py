@@ -474,10 +474,7 @@ def build_svg(data, cached_at, title, sort_key="month"):
         {title} — {PYPI_USERNAME}
         <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
     </text>
-    <text x="{width/2}" y="76" text-anchor="middle" fill="#b2b2d8" font-size="13" opacity="0">
-        live from PyPIStats &amp; PEPY
-        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.3s" fill="freeze"/>
-    </text>
+   
 
     <!-- Summary chips -->
     <g opacity="0">
