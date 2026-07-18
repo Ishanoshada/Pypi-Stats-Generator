@@ -1,0 +1,644 @@
+<svg viewBox="0 0 960 780" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+    <defs>
+        
+        <linearGradient id="grad0" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#534AB7" stop-opacity="0.65"/>
+            <stop offset="100%" stop-color="#7F77DD"/>
+        </linearGradient>
+        <linearGradient id="shine0" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#0F6E56" stop-opacity="0.65"/>
+            <stop offset="100%" stop-color="#1D9E75"/>
+        </linearGradient>
+        <linearGradient id="shine1" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#993C1D" stop-opacity="0.65"/>
+            <stop offset="100%" stop-color="#D85A30"/>
+        </linearGradient>
+        <linearGradient id="shine2" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#185FA5" stop-opacity="0.65"/>
+            <stop offset="100%" stop-color="#378ADD"/>
+        </linearGradient>
+        <linearGradient id="shine3" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#854F0B" stop-opacity="0.65"/>
+            <stop offset="100%" stop-color="#EF9F27"/>
+        </linearGradient>
+        <linearGradient id="shine4" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#993556" stop-opacity="0.65"/>
+            <stop offset="100%" stop-color="#D4537E"/>
+        </linearGradient>
+        <linearGradient id="shine5" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="grad6" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#3B6D11" stop-opacity="0.65"/>
+            <stop offset="100%" stop-color="#639922"/>
+        </linearGradient>
+        <linearGradient id="shine6" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="grad7" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#A32D2D" stop-opacity="0.65"/>
+            <stop offset="100%" stop-color="#E24B4A"/>
+        </linearGradient>
+        <linearGradient id="shine7" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="grad8" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#0F6E56" stop-opacity="0.65"/>
+            <stop offset="100%" stop-color="#5DCAA5"/>
+        </linearGradient>
+        <linearGradient id="shine8" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="grad9" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#534AB7" stop-opacity="0.65"/>
+            <stop offset="100%" stop-color="#AFA9EC"/>
+        </linearGradient>
+        <linearGradient id="shine9" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#0f0c29"/>
+            <stop offset="45%" stop-color="#24124a"/>
+            <stop offset="75%" stop-color="#302b63"/>
+            <stop offset="100%" stop-color="#0f2454"/>
+        </linearGradient>
+        <linearGradient id="headerGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#7F77DD" stop-opacity="0"/>
+            <stop offset="50%" stop-color="#7F77DD" stop-opacity="0.5"/>
+            <stop offset="100%" stop-color="#7F77DD" stop-opacity="0"/>
+        </linearGradient>
+        <filter id="barGlow" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="4" result="blur"/>
+            <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
+        <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
+        <filter id="titleGlow" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="2.5" result="blur"/>
+            <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
+        <radialGradient id="starGlow" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+        </radialGradient>
+    </defs>
+
+    <rect width="960" height="780" fill="url(#bg)" rx="20"/>
+
+    <!-- Decorative starfield -->
+    <circle cx="60" cy="30" r="1.4" fill="url(#starGlow)">
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="45" r="1.8" fill="url(#starGlow)">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="920" cy="150" r="1.2" fill="url(#starGlow)">
+        <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="40" cy="200" r="1.6" fill="url(#starGlow)">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="740" r="1.4" fill="url(#starGlow)">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <line x1="240.0" y1="120" x2="240.0" y2="720" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/><line x1="366.0" y1="120" x2="366.0" y2="720" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/><line x1="492.0" y1="120" x2="492.0" y2="720" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/><line x1="618.0" y1="120" x2="618.0" y2="720" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/><line x1="744.0" y1="120" x2="744.0" y2="720" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/><line x1="870.0" y1="120" x2="870.0" y2="720" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+
+    <rect x="30" y="18" width="900" height="2" fill="url(#headerGlow)">
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="480.0" y="52" text-anchor="middle" fill="#ffffff"
+          font-size="28" font-weight="700" filter="url(#titleGlow)" opacity="0">
+        Top 10 All-time Downloads — oshada
+        <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
+    </text>
+    <text x="480.0" y="76" text-anchor="middle" fill="#b2b2d8" font-size="13" opacity="0">
+        live from PyPIStats &amp; PEPY
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.3s" fill="freeze"/>
+    </text>
+
+    <!-- Summary chips -->
+    <g opacity="0">
+        <rect x="280.0" y="92" width="190" height="30" rx="15" fill="#ffffff" fill-opacity="0.08"/>
+        <text x="375.0" y="112" text-anchor="middle" font-size="12" fill="#eaeaf5">
+            Total: <tspan font-weight="700">115,695</tspan>
+        </text>
+        <rect x="490.0" y="92" width="190" height="30" rx="15" fill="#ffffff" fill-opacity="0.08"/>
+        <text x="585.0" y="112" text-anchor="middle" font-size="12" fill="#eaeaf5">
+            7d total: <tspan font-weight="700">91</tspan>
+        </text>
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
+    </g>
+
+    <style>
+        .pkg-label { fill: #eaeaf5; font-size: 14px; font-weight: 600; }
+        .all-time-label { fill: #8a8ab8; font-size: 11px; font-weight: 400; }
+        .value-label { fill: #ffffff; font-size: 15px; font-weight: 700; }
+        .week-label { fill: #9d9dc4; font-size: 12px; font-weight: 400; }
+    </style>
+
+    
+        <g class="bar-group">
+            
+            <circle cx="50" cy="159.0" r="14" fill="#FFD700" filter="url(#softGlow)">
+                <animate attributeName="r" from="0" to="14" dur="0.3s" begin="0.0s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </circle>
+            <text x="50" y="164.0" text-anchor="middle"
+                  font-size="12" font-weight="700" fill="#1a1a1a" opacity="0">
+                1
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.2s" fill="freeze"/>
+            </text>
+            
+            <text x="75" y="157.0" class="pkg-label" opacity="0">
+                cryptodo
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.1s" fill="freeze"/>
+            </text>
+            <text x="75" y="177.0" class="all-time-label" opacity="0">
+                All-time: 19,814
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.2s" fill="freeze"/>
+            </text>
+
+            <rect x="240" y="143.92" width="630" height="30.16"
+                  rx="15.08" fill="#ffffff" fill-opacity="0.05"/>
+
+            <rect x="240" y="143.92" width="0" height="30.16"
+                  rx="15.08" fill="url(#grad0)" filter="url(#barGlow)" class="bar">
+                <animate attributeName="width" from="0" to="630.0"
+                         dur="1.1s" fill="freeze" begin="0.0s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+            <rect x="240" y="143.92" width="0" height="13.7"
+                  rx="7.5" fill="url(#shine0)">
+                <animate attributeName="width" from="0" to="630.0"
+                         dur="1.1s" fill="freeze" begin="0.0s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+
+            <text x="884.0" y="159.0" class="value-label" opacity="0">
+                19,814
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="0.8s" fill="freeze"/>
+            </text>
+            <text x="884.0" y="177.0" class="week-label" opacity="0">
+                10/wk
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="0.9s" fill="freeze"/>
+            </text>
+        </g>
+        <g class="bar-group">
+            
+            <circle cx="50" cy="217.0" r="14" fill="#C0C0C0" filter="url(#softGlow)">
+                <animate attributeName="r" from="0" to="14" dur="0.3s" begin="0.09s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </circle>
+            <text x="50" y="222.0" text-anchor="middle"
+                  font-size="12" font-weight="700" fill="#1a1a1a" opacity="0">
+                2
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.29000000000000004s" fill="freeze"/>
+            </text>
+            
+            <text x="75" y="215.0" class="pkg-label" opacity="0">
+                binencrypt
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.19s" fill="freeze"/>
+            </text>
+            <text x="75" y="235.0" class="all-time-label" opacity="0">
+                All-time: 18,700
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.29000000000000004s" fill="freeze"/>
+            </text>
+
+            <rect x="240" y="201.92" width="630" height="30.16"
+                  rx="15.08" fill="#ffffff" fill-opacity="0.05"/>
+
+            <rect x="240" y="201.92" width="0" height="30.16"
+                  rx="15.08" fill="url(#grad1)" filter="url(#barGlow)" class="bar">
+                <animate attributeName="width" from="0" to="594.6"
+                         dur="1.1s" fill="freeze" begin="0.09s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+            <rect x="240" y="201.92" width="0" height="13.7"
+                  rx="7.5" fill="url(#shine1)">
+                <animate attributeName="width" from="0" to="594.6"
+                         dur="1.1s" fill="freeze" begin="0.09s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+
+            <text x="848.5795901887554" y="217.0" class="value-label" opacity="0">
+                18,700
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="0.89s" fill="freeze"/>
+            </text>
+            <text x="848.5795901887554" y="235.0" class="week-label" opacity="0">
+                8/wk
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="0.99s" fill="freeze"/>
+            </text>
+        </g>
+        <g class="bar-group">
+            
+            <circle cx="50" cy="275.0" r="14" fill="#CD7F32" filter="url(#softGlow)">
+                <animate attributeName="r" from="0" to="14" dur="0.3s" begin="0.18s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </circle>
+            <text x="50" y="280.0" text-anchor="middle"
+                  font-size="12" font-weight="700" fill="#1a1a1a" opacity="0">
+                3
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.38s" fill="freeze"/>
+            </text>
+            
+            <text x="75" y="273.0" class="pkg-label" opacity="0">
+                Planet3D
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.28s" fill="freeze"/>
+            </text>
+            <text x="75" y="293.0" class="all-time-label" opacity="0">
+                All-time: 12,968
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.38s" fill="freeze"/>
+            </text>
+
+            <rect x="240" y="259.92" width="630" height="30.16"
+                  rx="15.08" fill="#ffffff" fill-opacity="0.05"/>
+
+            <rect x="240" y="259.92" width="0" height="30.16"
+                  rx="15.08" fill="url(#grad2)" filter="url(#barGlow)" class="bar">
+                <animate attributeName="width" from="0" to="412.3"
+                         dur="1.1s" fill="freeze" begin="0.18s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+            <rect x="240" y="259.92" width="0" height="13.7"
+                  rx="7.5" fill="url(#shine2)">
+                <animate attributeName="width" from="0" to="412.3"
+                         dur="1.1s" fill="freeze" begin="0.18s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+
+            <text x="666.3266377308973" y="275.0" class="value-label" opacity="0">
+                12,968
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="0.98s" fill="freeze"/>
+            </text>
+            <text x="666.3266377308973" y="293.0" class="week-label" opacity="0">
+                8/wk
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.08s" fill="freeze"/>
+            </text>
+        </g>
+        <g class="bar-group">
+            
+            <circle cx="50" cy="333.0" r="12" fill="#ffffff" fill-opacity="0.08">
+                <animate attributeName="r" from="0" to="12" dur="0.3s" begin="0.27s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </circle>
+            <text x="50" y="337.0" text-anchor="middle"
+                  font-size="11" fill="#9d9dc4" opacity="0">
+                4
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.47000000000000003s" fill="freeze"/>
+            </text>
+            
+            <text x="75" y="331.0" class="pkg-label" opacity="0">
+                flask-waf
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.37s" fill="freeze"/>
+            </text>
+            <text x="75" y="351.0" class="all-time-label" opacity="0">
+                All-time: 12,653
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.47000000000000003s" fill="freeze"/>
+            </text>
+
+            <rect x="240" y="317.92" width="630" height="30.16"
+                  rx="15.08" fill="#ffffff" fill-opacity="0.05"/>
+
+            <rect x="240" y="317.92" width="0" height="30.16"
+                  rx="15.08" fill="url(#grad3)" filter="url(#barGlow)" class="bar">
+                <animate attributeName="width" from="0" to="402.3"
+                         dur="1.1s" fill="freeze" begin="0.27s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+            <rect x="240" y="317.92" width="0" height="13.7"
+                  rx="7.5" fill="url(#shine3)">
+                <animate attributeName="width" from="0" to="402.3"
+                         dur="1.1s" fill="freeze" begin="0.27s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+
+            <text x="656.3109922277177" y="333.0" class="value-label" opacity="0">
+                12,653
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.07s" fill="freeze"/>
+            </text>
+            <text x="656.3109922277177" y="351.0" class="week-label" opacity="0">
+                6/wk
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.17s" fill="freeze"/>
+            </text>
+        </g>
+        <g class="bar-group">
+            
+            <circle cx="50" cy="391.0" r="12" fill="#ffffff" fill-opacity="0.08">
+                <animate attributeName="r" from="0" to="12" dur="0.3s" begin="0.36s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </circle>
+            <text x="50" y="395.0" text-anchor="middle"
+                  font-size="11" fill="#9d9dc4" opacity="0">
+                5
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.56s" fill="freeze"/>
+            </text>
+            
+            <text x="75" y="389.0" class="pkg-label" opacity="0">
+                krishto
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.45999999999999996s" fill="freeze"/>
+            </text>
+            <text x="75" y="409.0" class="all-time-label" opacity="0">
+                All-time: 12,557
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.56s" fill="freeze"/>
+            </text>
+
+            <rect x="240" y="375.92" width="630" height="30.16"
+                  rx="15.08" fill="#ffffff" fill-opacity="0.05"/>
+
+            <rect x="240" y="375.92" width="0" height="30.16"
+                  rx="15.08" fill="url(#grad4)" filter="url(#barGlow)" class="bar">
+                <animate attributeName="width" from="0" to="399.3"
+                         dur="1.1s" fill="freeze" begin="0.36s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+            <rect x="240" y="375.92" width="0" height="13.7"
+                  rx="7.5" fill="url(#shine4)">
+                <animate attributeName="width" from="0" to="399.3"
+                         dur="1.1s" fill="freeze" begin="0.36s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+
+            <text x="653.2586050267488" y="391.0" class="value-label" opacity="0">
+                12,557
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.1600000000000001s" fill="freeze"/>
+            </text>
+            <text x="653.2586050267488" y="409.0" class="week-label" opacity="0">
+                5/wk
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.26s" fill="freeze"/>
+            </text>
+        </g>
+        <g class="bar-group">
+            
+            <circle cx="50" cy="449.0" r="12" fill="#ffffff" fill-opacity="0.08">
+                <animate attributeName="r" from="0" to="12" dur="0.3s" begin="0.44999999999999996s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </circle>
+            <text x="50" y="453.0" text-anchor="middle"
+                  font-size="11" fill="#9d9dc4" opacity="0">
+                6
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.6499999999999999s" fill="freeze"/>
+            </text>
+            
+            <text x="75" y="447.0" class="pkg-label" opacity="0">
+                microweb
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.5499999999999999s" fill="freeze"/>
+            </text>
+            <text x="75" y="467.0" class="all-time-label" opacity="0">
+                All-time: 8,795
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.6499999999999999s" fill="freeze"/>
+            </text>
+
+            <rect x="240" y="433.92" width="630" height="30.16"
+                  rx="15.08" fill="#ffffff" fill-opacity="0.05"/>
+
+            <rect x="240" y="433.92" width="0" height="30.16"
+                  rx="15.08" fill="url(#grad5)" filter="url(#barGlow)" class="bar">
+                <animate attributeName="width" from="0" to="279.6"
+                         dur="1.1s" fill="freeze" begin="0.44999999999999996s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+            <rect x="240" y="433.92" width="0" height="13.7"
+                  rx="7.5" fill="url(#shine5)">
+                <animate attributeName="width" from="0" to="279.6"
+                         dur="1.1s" fill="freeze" begin="0.44999999999999996s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+
+            <text x="533.6431815887756" y="449.0" class="value-label" opacity="0">
+                8,795
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.25s" fill="freeze"/>
+            </text>
+            <text x="533.6431815887756" y="467.0" class="week-label" opacity="0">
+                10/wk
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.35s" fill="freeze"/>
+            </text>
+        </g>
+        <g class="bar-group">
+            
+            <circle cx="50" cy="507.0" r="12" fill="#ffffff" fill-opacity="0.08">
+                <animate attributeName="r" from="0" to="12" dur="0.3s" begin="0.54s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </circle>
+            <text x="50" y="511.0" text-anchor="middle"
+                  font-size="11" fill="#9d9dc4" opacity="0">
+                7
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.74s" fill="freeze"/>
+            </text>
+            
+            <text x="75" y="505.0" class="pkg-label" opacity="0">
+                encodify
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.64s" fill="freeze"/>
+            </text>
+            <text x="75" y="525.0" class="all-time-label" opacity="0">
+                All-time: 8,311
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.74s" fill="freeze"/>
+            </text>
+
+            <rect x="240" y="491.92" width="630" height="30.16"
+                  rx="15.08" fill="#ffffff" fill-opacity="0.05"/>
+
+            <rect x="240" y="491.92" width="0" height="30.16"
+                  rx="15.08" fill="url(#grad6)" filter="url(#barGlow)" class="bar">
+                <animate attributeName="width" from="0" to="264.3"
+                         dur="1.1s" fill="freeze" begin="0.54s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+            <rect x="240" y="491.92" width="0" height="13.7"
+                  rx="7.5" fill="url(#shine6)">
+                <animate attributeName="width" from="0" to="264.3"
+                         dur="1.1s" fill="freeze" begin="0.54s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+
+            <text x="518.2540627838902" y="507.0" class="value-label" opacity="0">
+                8,311
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.34s" fill="freeze"/>
+            </text>
+            <text x="518.2540627838902" y="525.0" class="week-label" opacity="0">
+                12/wk
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.44s" fill="freeze"/>
+            </text>
+        </g>
+        <g class="bar-group">
+            
+            <circle cx="50" cy="565.0" r="12" fill="#ffffff" fill-opacity="0.08">
+                <animate attributeName="r" from="0" to="12" dur="0.3s" begin="0.63s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </circle>
+            <text x="50" y="569.0" text-anchor="middle"
+                  font-size="11" fill="#9d9dc4" opacity="0">
+                8
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.8300000000000001s" fill="freeze"/>
+            </text>
+            
+            <text x="75" y="563.0" class="pkg-label" opacity="0">
+                algoisto
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.73s" fill="freeze"/>
+            </text>
+            <text x="75" y="583.0" class="all-time-label" opacity="0">
+                All-time: 7,931
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.8300000000000001s" fill="freeze"/>
+            </text>
+
+            <rect x="240" y="549.92" width="630" height="30.16"
+                  rx="15.08" fill="#ffffff" fill-opacity="0.05"/>
+
+            <rect x="240" y="549.92" width="0" height="30.16"
+                  rx="15.08" fill="url(#grad7)" filter="url(#barGlow)" class="bar">
+                <animate attributeName="width" from="0" to="252.2"
+                         dur="1.1s" fill="freeze" begin="0.63s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+            <rect x="240" y="549.92" width="0" height="13.7"
+                  rx="7.5" fill="url(#shine7)">
+                <animate attributeName="width" from="0" to="252.2"
+                         dur="1.1s" fill="freeze" begin="0.63s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+
+            <text x="506.1716967800545" y="565.0" class="value-label" opacity="0">
+                7,931
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.4300000000000002s" fill="freeze"/>
+            </text>
+            <text x="506.1716967800545" y="583.0" class="week-label" opacity="0">
+                9/wk
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.53s" fill="freeze"/>
+            </text>
+        </g>
+        <g class="bar-group">
+            
+            <circle cx="50" cy="623.0" r="12" fill="#ffffff" fill-opacity="0.08">
+                <animate attributeName="r" from="0" to="12" dur="0.3s" begin="0.72s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </circle>
+            <text x="50" y="627.0" text-anchor="middle"
+                  font-size="11" fill="#9d9dc4" opacity="0">
+                9
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.9199999999999999s" fill="freeze"/>
+            </text>
+            
+            <text x="75" y="621.0" class="pkg-label" opacity="0">
+                iptracker
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.82s" fill="freeze"/>
+            </text>
+            <text x="75" y="641.0" class="all-time-label" opacity="0">
+                All-time: 7,562
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.9199999999999999s" fill="freeze"/>
+            </text>
+
+            <rect x="240" y="607.92" width="630" height="30.16"
+                  rx="15.08" fill="#ffffff" fill-opacity="0.05"/>
+
+            <rect x="240" y="607.92" width="0" height="30.16"
+                  rx="15.08" fill="url(#grad8)" filter="url(#barGlow)" class="bar">
+                <animate attributeName="width" from="0" to="240.4"
+                         dur="1.1s" fill="freeze" begin="0.72s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+            <rect x="240" y="607.92" width="0" height="13.7"
+                  rx="7.5" fill="url(#shine8)">
+                <animate attributeName="width" from="0" to="240.4"
+                         dur="1.1s" fill="freeze" begin="0.72s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+
+            <text x="494.43908347632987" y="623.0" class="value-label" opacity="0">
+                7,562
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.52s" fill="freeze"/>
+            </text>
+            <text x="494.43908347632987" y="641.0" class="week-label" opacity="0">
+                17/wk
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.62s" fill="freeze"/>
+            </text>
+        </g>
+        <g class="bar-group">
+            
+            <circle cx="50" cy="681.0" r="12" fill="#ffffff" fill-opacity="0.08">
+                <animate attributeName="r" from="0" to="12" dur="0.3s" begin="0.8099999999999999s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </circle>
+            <text x="50" y="685.0" text-anchor="middle"
+                  font-size="11" fill="#9d9dc4" opacity="0">
+                10
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.01s" fill="freeze"/>
+            </text>
+            
+            <text x="75" y="679.0" class="pkg-label" opacity="0">
+                slandroid
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.9099999999999999s" fill="freeze"/>
+            </text>
+            <text x="75" y="699.0" class="all-time-label" opacity="0">
+                All-time: 6,404
+                <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.01s" fill="freeze"/>
+            </text>
+
+            <rect x="240" y="665.92" width="630" height="30.16"
+                  rx="15.08" fill="#ffffff" fill-opacity="0.05"/>
+
+            <rect x="240" y="665.92" width="0" height="30.16"
+                  rx="15.08" fill="url(#grad9)" filter="url(#barGlow)" class="bar">
+                <animate attributeName="width" from="0" to="203.6"
+                         dur="1.1s" fill="freeze" begin="0.8099999999999999s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+            <rect x="240" y="665.92" width="0" height="13.7"
+                  rx="7.5" fill="url(#shine9)">
+                <animate attributeName="width" from="0" to="203.6"
+                         dur="1.1s" fill="freeze" begin="0.8099999999999999s"
+                         calcMode="spline" keySplines="0.22 1 0.36 1"/>
+            </rect>
+
+            <text x="457.61966286464116" y="681.0" class="value-label" opacity="0">
+                6,404
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.6099999999999999s" fill="freeze"/>
+            </text>
+            <text x="457.61966286464116" y="699.0" class="week-label" opacity="0">
+                6/wk
+                <animate attributeName="opacity" from="0" to="1" dur="0.5s"
+                         begin="1.71s" fill="freeze"/>
+            </text>
+        </g>
+
+    <line x1="30" y1="728" x2="930" y2="728" stroke="#ffffff" stroke-opacity="0.08"/>
+
+    <text x="930" y="756" text-anchor="end" fill="#6f6f9c" font-size="11">
+        generated: 2026-07-19 03:02:17 +0530 · data from PyPIStats &amp; PEPY
+    </text>
+</svg>
