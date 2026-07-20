@@ -636,6 +636,6 @@
     <line x1="30" y1="728" x2="930" y2="728" stroke="#ffffff" stroke-opacity="0.08"/>
 
     <text x="930" y="756" text-anchor="end" fill="#6f6f9c" font-size="11">
-        generated: 2026-07-21 00:37:34 +0530 · data from PyPIStats &amp; PEPY
+        generated: 2026-07-21 00:39:59 +0530 · data from PyPIStats &amp; PEPY
     </text>
 </svg>
