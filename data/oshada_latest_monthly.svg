@@ -145,11 +145,11 @@
     <g opacity="0">
         <rect x="280.0" y="92" width="190" height="30" rx="15" fill="#ffffff" fill-opacity="0.08"/>
         <text x="375.0" y="112" text-anchor="middle" font-size="12" fill="#eaeaf5">
-            Total: <tspan font-weight="700">807</tspan>
+            Total: <tspan font-weight="700">775</tspan>
         </text>
         <rect x="490.0" y="92" width="190" height="30" rx="15" fill="#ffffff" fill-opacity="0.08"/>
         <text x="585.0" y="112" text-anchor="middle" font-size="12" fill="#eaeaf5">
-            7d total: <tspan font-weight="700">155</tspan>
+            7d total: <tspan font-weight="700">131</tspan>
         </text>
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
     </g>
@@ -178,7 +178,7 @@
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.1s" fill="freeze"/>
             </text>
             <text x="75" y="177.0" class="all-time-label" opacity="0">
-                All-time: 4,083
+                All-time: 4,093
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.2s" fill="freeze"/>
             </text>
 
@@ -199,12 +199,12 @@
             </rect>
 
             <text x="884.0" y="159.0" class="value-label" opacity="0">
-                228
+                227
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="0.8s" fill="freeze"/>
             </text>
             <text x="884.0" y="177.0" class="week-label" opacity="0">
-                33/wk
+                25/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="0.9s" fill="freeze"/>
             </text>
@@ -225,7 +225,7 @@
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.19s" fill="freeze"/>
             </text>
             <text x="75" y="235.0" class="all-time-label" opacity="0">
-                All-time: 5,003
+                All-time: 5,007
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.29000000000000004s" fill="freeze"/>
             </text>
 
@@ -234,24 +234,24 @@
 
             <rect x="240" y="201.92" width="0" height="30.16"
                   rx="15.08" fill="url(#grad1)" filter="url(#barGlow)" class="bar">
-                <animate attributeName="width" from="0" to="353.7"
+                <animate attributeName="width" from="0" to="338.6"
                          dur="1.1s" fill="freeze" begin="0.09s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
             <rect x="240" y="201.92" width="0" height="13.7"
                   rx="7.5" fill="url(#shine1)">
-                <animate attributeName="width" from="0" to="353.7"
+                <animate attributeName="width" from="0" to="338.6"
                          dur="1.1s" fill="freeze" begin="0.09s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
 
-            <text x="607.6842105263158" y="217.0" class="value-label" opacity="0">
-                128
+            <text x="592.590308370044" y="217.0" class="value-label" opacity="0">
+                122
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="0.89s" fill="freeze"/>
             </text>
-            <text x="607.6842105263158" y="235.0" class="week-label" opacity="0">
-                28/wk
+            <text x="592.590308370044" y="235.0" class="week-label" opacity="0">
+                20/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="0.99s" fill="freeze"/>
             </text>
@@ -268,11 +268,11 @@
             </text>
             
             <text x="75" y="273.0" class="pkg-label" opacity="0">
-                flask-waf
+                tempinbox
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.28s" fill="freeze"/>
             </text>
             <text x="75" y="293.0" class="all-time-label" opacity="0">
-                All-time: 12,687
+                All-time: 3,478
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.38s" fill="freeze"/>
             </text>
 
@@ -281,24 +281,24 @@
 
             <rect x="240" y="259.92" width="0" height="30.16"
                   rx="15.08" fill="url(#grad2)" filter="url(#barGlow)" class="bar">
-                <animate attributeName="width" from="0" to="190.7"
+                <animate attributeName="width" from="0" to="172.1"
                          dur="1.1s" fill="freeze" begin="0.18s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
             <rect x="240" y="259.92" width="0" height="13.7"
                   rx="7.5" fill="url(#shine2)">
-                <animate attributeName="width" from="0" to="190.7"
+                <animate attributeName="width" from="0" to="172.1"
                          dur="1.1s" fill="freeze" begin="0.18s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
 
-            <text x="444.6578947368421" y="275.0" class="value-label" opacity="0">
-                69
+            <text x="426.0704845814978" y="275.0" class="value-label" opacity="0">
+                62
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="0.98s" fill="freeze"/>
             </text>
-            <text x="444.6578947368421" y="293.0" class="week-label" opacity="0">
-                6/wk
+            <text x="426.0704845814978" y="293.0" class="week-label" opacity="0">
+                15/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.08s" fill="freeze"/>
             </text>
@@ -319,7 +319,7 @@
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.37s" fill="freeze"/>
             </text>
             <text x="75" y="351.0" class="all-time-label" opacity="0">
-                All-time: 4,988
+                All-time: 4,991
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.47000000000000003s" fill="freeze"/>
             </text>
 
@@ -328,24 +328,24 @@
 
             <rect x="240" y="317.92" width="0" height="30.16"
                   rx="15.08" fill="url(#grad3)" filter="url(#barGlow)" class="bar">
-                <animate attributeName="width" from="0" to="174.1"
+                <animate attributeName="width" from="0" to="163.7"
                          dur="1.1s" fill="freeze" begin="0.27s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
             <rect x="240" y="317.92" width="0" height="13.7"
                   rx="7.5" fill="url(#shine3)">
-                <animate attributeName="width" from="0" to="174.1"
+                <animate attributeName="width" from="0" to="163.7"
                          dur="1.1s" fill="freeze" begin="0.27s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
 
-            <text x="428.07894736842104" y="333.0" class="value-label" opacity="0">
-                63
+            <text x="417.74449339207047" y="333.0" class="value-label" opacity="0">
+                59
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.07s" fill="freeze"/>
             </text>
-            <text x="428.07894736842104" y="351.0" class="week-label" opacity="0">
-                14/wk
+            <text x="417.74449339207047" y="351.0" class="week-label" opacity="0">
+                9/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.17s" fill="freeze"/>
             </text>
@@ -362,11 +362,11 @@
             </text>
             
             <text x="75" y="389.0" class="pkg-label" opacity="0">
-                xxe
+                iptracker
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.45999999999999996s" fill="freeze"/>
             </text>
             <text x="75" y="409.0" class="all-time-label" opacity="0">
-                All-time: 5,859
+                All-time: 7,577
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.56s" fill="freeze"/>
             </text>
 
@@ -375,24 +375,24 @@
 
             <rect x="240" y="375.92" width="0" height="30.16"
                   rx="15.08" fill="url(#grad4)" filter="url(#barGlow)" class="bar">
-                <animate attributeName="width" from="0" to="160.3"
+                <animate attributeName="width" from="0" to="155.4"
                          dur="1.1s" fill="freeze" begin="0.36s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
             <rect x="240" y="375.92" width="0" height="13.7"
                   rx="7.5" fill="url(#shine4)">
-                <animate attributeName="width" from="0" to="160.3"
+                <animate attributeName="width" from="0" to="155.4"
                          dur="1.1s" fill="freeze" begin="0.36s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
 
-            <text x="414.2631578947369" y="391.0" class="value-label" opacity="0">
-                58
+            <text x="409.41850220264314" y="391.0" class="value-label" opacity="0">
+                56
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.1600000000000001s" fill="freeze"/>
             </text>
-            <text x="414.2631578947369" y="409.0" class="week-label" opacity="0">
-                6/wk
+            <text x="409.41850220264314" y="409.0" class="week-label" opacity="0">
+                13/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.26s" fill="freeze"/>
             </text>
@@ -409,11 +409,11 @@
             </text>
             
             <text x="75" y="447.0" class="pkg-label" opacity="0">
-                iptracker
+                decodify
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.5499999999999999s" fill="freeze"/>
             </text>
             <text x="75" y="467.0" class="all-time-label" opacity="0">
-                All-time: 7,570
+                All-time: 3,388
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.6499999999999999s" fill="freeze"/>
             </text>
 
@@ -422,24 +422,24 @@
 
             <rect x="240" y="433.92" width="0" height="30.16"
                   rx="15.08" fill="url(#grad5)" filter="url(#barGlow)" class="bar">
-                <animate attributeName="width" from="0" to="157.5"
+                <animate attributeName="width" from="0" to="149.9"
                          dur="1.1s" fill="freeze" begin="0.44999999999999996s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
             <rect x="240" y="433.92" width="0" height="13.7"
                   rx="7.5" fill="url(#shine5)">
-                <animate attributeName="width" from="0" to="157.5"
+                <animate attributeName="width" from="0" to="149.9"
                          dur="1.1s" fill="freeze" begin="0.44999999999999996s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
 
-            <text x="411.5" y="449.0" class="value-label" opacity="0">
-                57
+            <text x="403.86784140969166" y="449.0" class="value-label" opacity="0">
+                54
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.25s" fill="freeze"/>
             </text>
-            <text x="411.5" y="467.0" class="week-label" opacity="0">
-                18/wk
+            <text x="403.86784140969166" y="467.0" class="week-label" opacity="0">
+                19/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.35s" fill="freeze"/>
             </text>
@@ -456,11 +456,11 @@
             </text>
             
             <text x="75" y="505.0" class="pkg-label" opacity="0">
-                decodify
+                xxe
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.64s" fill="freeze"/>
             </text>
             <text x="75" y="525.0" class="all-time-label" opacity="0">
-                All-time: 3,383
+                All-time: 5,872
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.74s" fill="freeze"/>
             </text>
 
@@ -469,24 +469,24 @@
 
             <rect x="240" y="491.92" width="0" height="30.16"
                   rx="15.08" fill="url(#grad6)" filter="url(#barGlow)" class="bar">
-                <animate attributeName="width" from="0" to="154.7"
+                <animate attributeName="width" from="0" to="144.3"
                          dur="1.1s" fill="freeze" begin="0.54s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
             <rect x="240" y="491.92" width="0" height="13.7"
                   rx="7.5" fill="url(#shine6)">
-                <animate attributeName="width" from="0" to="154.7"
+                <animate attributeName="width" from="0" to="144.3"
                          dur="1.1s" fill="freeze" begin="0.54s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
 
-            <text x="408.7368421052631" y="507.0" class="value-label" opacity="0">
-                56
+            <text x="398.3171806167401" y="507.0" class="value-label" opacity="0">
+                52
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.34s" fill="freeze"/>
             </text>
-            <text x="408.7368421052631" y="525.0" class="week-label" opacity="0">
-                17/wk
+            <text x="398.3171806167401" y="525.0" class="week-label" opacity="0">
+                6/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.44s" fill="freeze"/>
             </text>
@@ -507,7 +507,7 @@
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.73s" fill="freeze"/>
             </text>
             <text x="75" y="583.0" class="all-time-label" opacity="0">
-                All-time: 8,327
+                All-time: 8,330
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.8300000000000001s" fill="freeze"/>
             </text>
 
@@ -516,24 +516,24 @@
 
             <rect x="240" y="549.92" width="0" height="30.16"
                   rx="15.08" fill="url(#grad7)" filter="url(#barGlow)" class="bar">
-                <animate attributeName="width" from="0" to="146.4"
+                <animate attributeName="width" from="0" to="138.8"
                          dur="1.1s" fill="freeze" begin="0.63s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
             <rect x="240" y="549.92" width="0" height="13.7"
                   rx="7.5" fill="url(#shine7)">
-                <animate attributeName="width" from="0" to="146.4"
+                <animate attributeName="width" from="0" to="138.8"
                          dur="1.1s" fill="freeze" begin="0.63s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
 
-            <text x="400.4473684210526" y="565.0" class="value-label" opacity="0">
-                53
+            <text x="392.76651982378854" y="565.0" class="value-label" opacity="0">
+                50
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.4300000000000002s" fill="freeze"/>
             </text>
-            <text x="400.4473684210526" y="583.0" class="week-label" opacity="0">
-                19/wk
+            <text x="392.76651982378854" y="583.0" class="week-label" opacity="0">
+                14/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.53s" fill="freeze"/>
             </text>
@@ -550,11 +550,11 @@
             </text>
             
             <text x="75" y="621.0" class="pkg-label" opacity="0">
-                Planet3D
+                flask-waf
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.82s" fill="freeze"/>
             </text>
             <text x="75" y="641.0" class="all-time-label" opacity="0">
-                All-time: 12,977
+                All-time: 12,704
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.9199999999999999s" fill="freeze"/>
             </text>
 
@@ -563,24 +563,24 @@
 
             <rect x="240" y="607.92" width="0" height="30.16"
                   rx="15.08" fill="url(#grad8)" filter="url(#barGlow)" class="bar">
-                <animate attributeName="width" from="0" to="138.2"
+                <animate attributeName="width" from="0" to="133.2"
                          dur="1.1s" fill="freeze" begin="0.72s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
             <rect x="240" y="607.92" width="0" height="13.7"
                   rx="7.5" fill="url(#shine8)">
-                <animate attributeName="width" from="0" to="138.2"
+                <animate attributeName="width" from="0" to="133.2"
                          dur="1.1s" fill="freeze" begin="0.72s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
 
-            <text x="392.1578947368421" y="623.0" class="value-label" opacity="0">
-                50
+            <text x="387.215859030837" y="623.0" class="value-label" opacity="0">
+                48
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.52s" fill="freeze"/>
             </text>
-            <text x="392.1578947368421" y="641.0" class="week-label" opacity="0">
-                9/wk
+            <text x="387.215859030837" y="641.0" class="week-label" opacity="0">
+                5/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.62s" fill="freeze"/>
             </text>
@@ -597,11 +597,11 @@
             </text>
             
             <text x="75" y="679.0" class="pkg-label" opacity="0">
-                catrix
+                Planet3D
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.9099999999999999s" fill="freeze"/>
             </text>
             <text x="75" y="699.0" class="all-time-label" opacity="0">
-                All-time: 3,330
+                All-time: 12,979
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.01s" fill="freeze"/>
             </text>
 
@@ -610,23 +610,23 @@
 
             <rect x="240" y="665.92" width="0" height="30.16"
                   rx="15.08" fill="url(#grad9)" filter="url(#barGlow)" class="bar">
-                <animate attributeName="width" from="0" to="124.3"
+                <animate attributeName="width" from="0" to="124.9"
                          dur="1.1s" fill="freeze" begin="0.8099999999999999s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
             <rect x="240" y="665.92" width="0" height="13.7"
                   rx="7.5" fill="url(#shine9)">
-                <animate attributeName="width" from="0" to="124.3"
+                <animate attributeName="width" from="0" to="124.9"
                          dur="1.1s" fill="freeze" begin="0.8099999999999999s"
                          calcMode="spline" keySplines="0.22 1 0.36 1"/>
             </rect>
 
-            <text x="378.3421052631579" y="681.0" class="value-label" opacity="0">
+            <text x="378.8898678414097" y="681.0" class="value-label" opacity="0">
                 45
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.6099999999999999s" fill="freeze"/>
             </text>
-            <text x="378.3421052631579" y="699.0" class="week-label" opacity="0">
+            <text x="378.8898678414097" y="699.0" class="week-label" opacity="0">
                 5/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.71s" fill="freeze"/>
@@ -636,6 +636,6 @@
     <line x1="30" y1="728" x2="930" y2="728" stroke="#ffffff" stroke-opacity="0.08"/>
 
     <text x="930" y="756" text-anchor="end" fill="#6f6f9c" font-size="11">
-        generated: 2026-07-21 00:39:59 +0530 · data from PyPIStats &amp; PEPY
+        generated: 2026-07-22 09:01:57 +0530 · data from PyPIStats &amp; PEPY
     </text>
 </svg>
