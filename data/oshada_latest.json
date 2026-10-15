@@ -2,283 +2,283 @@
   "packages": [
     {
       "package": "srilanka-lottery",
-      "week": 15,
-      "month": 90,
-      "all_time": 4593
-    },
-    {
-      "package": "cryptodo",
-      "week": 18,
-      "month": 52,
-      "all_time": 20695
-    },
-    {
-      "package": "binencrypt",
-      "week": 15,
-      "month": 51,
-      "all_time": 19879
-    },
-    {
-      "package": "esp32-deauth",
-      "week": 16,
-      "month": 51,
-      "all_time": 5549
-    },
-    {
-      "package": "flask-waf",
-      "week": 5,
-      "month": 33,
-      "all_time": 13364
-    },
-    {
-      "package": "decodify",
-      "week": 5,
-      "month": 26,
-      "all_time": 3684
-    },
-    {
-      "package": "slandroid",
-      "week": 5,
-      "month": 24,
-      "all_time": 6757
+      "week": 25,
+      "month": 89,
+      "all_time": 4714
     },
     {
       "package": "binaural",
       "week": 14,
-      "month": 23,
-      "all_time": 5390
+      "month": 67,
+      "all_time": 5564
     },
     {
-      "package": "spiral-cipher",
-      "week": 11,
-      "month": 23,
-      "all_time": 5908
+      "package": "esp32-deauth",
+      "week": 8,
+      "month": 51,
+      "all_time": 5645
     },
     {
       "package": "microweb",
-      "week": 28,
-      "month": 20,
-      "all_time": 9518
+      "week": 18,
+      "month": 48,
+      "all_time": 9712
     },
     {
-      "package": "flask-firewall",
-      "week": 5,
-      "month": 16,
-      "all_time": 3072
+      "package": "binencrypt",
+      "week": 24,
+      "month": 46,
+      "all_time": 20067
+    },
+    {
+      "package": "cryptodo",
+      "week": 34,
+      "month": 45,
+      "all_time": 20862
+    },
+    {
+      "package": "flask-waf",
+      "week": 10,
+      "month": 33,
+      "all_time": 13484
+    },
+    {
+      "package": "spiral-cipher",
+      "week": 26,
+      "month": 29,
+      "all_time": 6001
+    },
+    {
+      "package": "slandroid",
+      "week": 2,
+      "month": 26,
+      "all_time": 6847
+    },
+    {
+      "package": "decodify",
+      "week": 15,
+      "month": 23,
+      "all_time": 3740
+    },
+    {
+      "package": "tempinbox",
+      "week": 10,
+      "month": 20,
+      "all_time": 3692
     },
     {
       "package": "iptracker",
-      "week": 6,
-      "month": 16,
-      "all_time": 7932
+      "week": 13,
+      "month": 19,
+      "all_time": 8014
     },
     {
       "package": "Planet3D",
-      "week": 4,
-      "month": 15,
-      "all_time": 13529
+      "week": 9,
+      "month": 17,
+      "all_time": 13633
+    },
+    {
+      "package": "encodify",
+      "week": 21,
+      "month": 16,
+      "all_time": 8709
+    },
+    {
+      "package": "flask-firewall",
+      "week": 2,
+      "month": 16,
+      "all_time": 3113
+    },
+    {
+      "package": "pyramid-math",
+      "week": 3,
+      "month": 16,
+      "all_time": 4913
     },
     {
       "package": "xxe",
-      "week": 7,
-      "month": 15,
-      "all_time": 6111
+      "week": 15,
+      "month": 16,
+      "all_time": 6188
     },
     {
       "package": "Matplot3DEx",
       "week": 4,
-      "month": 14,
-      "all_time": 3372
-    },
-    {
-      "package": "light-speed",
-      "week": 5,
-      "month": 14,
-      "all_time": 5101
-    },
-    {
-      "package": "tempinbox",
-      "week": 7,
-      "month": 13,
-      "all_time": 3654
-    },
-    {
-      "package": "encodify",
-      "week": 5,
-      "month": 12,
-      "all_time": 8644
-    },
-    {
-      "package": "srilanka",
-      "week": 3,
-      "month": 12,
-      "all_time": 3782
-    },
-    {
-      "package": "abhidharma",
-      "week": 6,
-      "month": 11,
-      "all_time": 2091
-    },
-    {
-      "package": "owl-eye",
-      "week": 6,
-      "month": 11,
-      "all_time": 5459
-    },
-    {
-      "package": "WebifyPy",
-      "week": 1,
-      "month": 10,
-      "all_time": 5515
+      "month": 15,
+      "all_time": 3400
     },
     {
       "package": "autosuggest",
-      "week": 3,
-      "month": 10,
-      "all_time": 4635
+      "week": 8,
+      "month": 15,
+      "all_time": 4691
     },
     {
-      "package": "gitsnipe",
-      "week": 1,
-      "month": 10,
-      "all_time": 2002
+      "package": "google-dorks",
+      "week": 2,
+      "month": 15,
+      "all_time": 1736
     },
     {
-      "package": "lucid-dream",
-      "week": 1,
-      "month": 10,
-      "all_time": 2400
+      "package": "owl-eye",
+      "week": 2,
+      "month": 15,
+      "all_time": 5509
+    },
+    {
+      "package": "srilanka",
+      "week": 6,
+      "month": 15,
+      "all_time": 3838
+    },
+    {
+      "package": "abhidharma",
+      "week": 5,
+      "month": 14,
+      "all_time": 2131
     },
     {
       "package": "ChalkCli",
-      "week": 5,
-      "month": 9,
-      "all_time": 5359
+      "week": 2,
+      "month": 13,
+      "all_time": 5403
     },
     {
-      "package": "yantra-patterns",
+      "package": "gitsnipe",
       "week": 3,
-      "month": 9,
-      "all_time": 3051
+      "month": 13,
+      "all_time": 2048
     },
     {
-      "package": "lockix",
-      "week": 5,
-      "month": 8,
-      "all_time": 2919
+      "package": "light-speed",
+      "week": 7,
+      "month": 13,
+      "all_time": 5187
     },
     {
       "package": "GDorks",
       "week": 2,
-      "month": 7,
-      "all_time": 2458
+      "month": 11,
+      "all_time": 2485
     },
     {
-      "package": "google-dorks",
-      "week": 5,
-      "month": 7,
-      "all_time": 1717
-    },
-    {
-      "package": "krishto",
-      "week": 2,
-      "month": 7,
-      "all_time": 12634
-    },
-    {
-      "package": "endly",
-      "week": 1,
-      "month": 6,
-      "all_time": 2675
-    },
-    {
-      "package": "helascript",
-      "week": 4,
-      "month": 6,
-      "all_time": 1538
-    },
-    {
-      "package": "nonsql",
-      "week": 4,
-      "month": 6,
-      "all_time": 4524
-    },
-    {
-      "package": "pyramid-math",
-      "week": 13,
-      "month": 6,
-      "all_time": 4859
-    },
-    {
-      "package": "catrix",
-      "week": 3,
-      "month": 5,
-      "all_time": 3467
-    },
-    {
-      "package": "automagicio",
-      "week": 4,
-      "month": 4,
-      "all_time": 2317
+      "package": "lockix",
+      "week": 9,
+      "month": 11,
+      "all_time": 2984
     },
     {
       "package": "algoisto",
+      "week": 7,
+      "month": 10,
+      "all_time": 8145
+    },
+    {
+      "package": "automagicio",
+      "week": 5,
+      "month": 10,
+      "all_time": 2353
+    },
+    {
+      "package": "WebifyPy",
+      "week": 1,
+      "month": 9,
+      "all_time": 5561
+    },
+    {
+      "package": "catrix",
+      "week": 5,
+      "month": 9,
+      "all_time": 3512
+    },
+    {
+      "package": "endly",
+      "week": 7,
+      "month": 9,
+      "all_time": 2723
+    },
+    {
+      "package": "helascript",
+      "week": 0,
+      "month": 9,
+      "all_time": 1554
+    },
+    {
+      "package": "lucid-dream",
+      "week": 3,
+      "month": 9,
+      "all_time": 2437
+    },
+    {
+      "package": "krishto",
       "week": 4,
-      "month": 3,
-      "all_time": 8094
+      "month": 8,
+      "all_time": 12654
+    },
+    {
+      "package": "nonsql",
+      "week": 7,
+      "month": 8,
+      "all_time": 4574
+    },
+    {
+      "package": "yantra-patterns",
+      "week": 6,
+      "month": 7,
+      "all_time": 3099
     },
     {
       "package": "lanka",
-      "week": 1,
-      "month": 3,
-      "all_time": 1511
-    },
-    {
-      "package": "rawana",
-      "week": 1,
-      "month": 3,
-      "all_time": 2650
-    },
-    {
-      "package": "sinhalax",
-      "week": 1,
-      "month": 3,
-      "all_time": 1398
-    },
-    {
-      "package": "sadaa",
       "week": 3,
-      "month": 2,
-      "all_time": 3050
+      "month": 5,
+      "all_time": 1529
     },
     {
       "package": "siython",
-      "week": 1,
-      "month": 2,
-      "all_time": 1283
+      "week": 2,
+      "month": 5,
+      "all_time": 1301
+    },
+    {
+      "package": "sadaa",
+      "week": 0,
+      "month": 4,
+      "all_time": 3081
+    },
+    {
+      "package": "sinhalax",
+      "week": 3,
+      "month": 4,
+      "all_time": 1414
+    },
+    {
+      "package": "rawana",
+      "week": 9,
+      "month": 3,
+      "all_time": 2686
     },
     {
       "package": "safescript",
-      "week": 2,
-      "month": 1,
-      "all_time": 2543
+      "week": 4,
+      "month": 3,
+      "all_time": 2570
     },
     {
       "package": "sinha",
-      "week": 1,
-      "month": 1,
-      "all_time": 1415
+      "week": 2,
+      "month": 3,
+      "all_time": 1431
     }
   ],
-  "timestamp": 1790826254.574623,
-  "cached_at": "2026-10-01 09:14:14 +0530",
+  "timestamp": 1792032824.859059,
+  "cached_at": "2026-10-15 08:23:44 +0530",
   "summary": {
     "total_packages": 45,
-    "total_month": 680,
-    "total_week": 261,
-    "total_all_time": 242098,
+    "total_month": 842,
+    "total_week": 367,
+    "total_all_time": 244934,
     "top_package": "srilanka-lottery",
-    "top_month_downloads": 90
+    "top_month_downloads": 89
   }
 }
