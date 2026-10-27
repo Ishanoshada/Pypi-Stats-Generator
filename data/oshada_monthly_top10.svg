@@ -149,7 +149,7 @@
         </text>
         <rect x="490.0" y="92" width="190" height="30" rx="15" fill="#ffffff" fill-opacity="0.08"/>
         <text x="585.0" y="112" text-anchor="middle" font-size="12" fill="#eaeaf5">
-            7d total: <tspan font-weight="700">176</tspan>
+            7d total: <tspan font-weight="700">132</tspan>
         </text>
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
     </g>
@@ -178,7 +178,7 @@
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.1s" fill="freeze"/>
             </text>
             <text x="75" y="177.0" class="all-time-label" opacity="0">
-                All-time: 4,714
+                All-time: 4,844
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.2s" fill="freeze"/>
             </text>
 
@@ -204,7 +204,7 @@
                          begin="0.8s" fill="freeze"/>
             </text>
             <text x="884.0" y="177.0" class="week-label" opacity="0">
-                25/wk
+                17/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="0.9s" fill="freeze"/>
             </text>
@@ -225,7 +225,7 @@
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.19s" fill="freeze"/>
             </text>
             <text x="75" y="235.0" class="all-time-label" opacity="0">
-                All-time: 5,564
+                All-time: 5,620
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.29000000000000004s" fill="freeze"/>
             </text>
 
@@ -251,7 +251,7 @@
                          begin="0.89s" fill="freeze"/>
             </text>
             <text x="728.2696629213483" y="235.0" class="week-label" opacity="0">
-                14/wk
+                11/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="0.99s" fill="freeze"/>
             </text>
@@ -272,7 +272,7 @@
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.28s" fill="freeze"/>
             </text>
             <text x="75" y="293.0" class="all-time-label" opacity="0">
-                All-time: 5,645
+                All-time: 5,760
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.38s" fill="freeze"/>
             </text>
 
@@ -319,7 +319,7 @@
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.37s" fill="freeze"/>
             </text>
             <text x="75" y="351.0" class="all-time-label" opacity="0">
-                All-time: 9,712
+                All-time: 9,911
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.47000000000000003s" fill="freeze"/>
             </text>
 
@@ -345,7 +345,7 @@
                          begin="1.07s" fill="freeze"/>
             </text>
             <text x="593.7752808988764" y="351.0" class="week-label" opacity="0">
-                18/wk
+                6/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.17s" fill="freeze"/>
             </text>
@@ -366,7 +366,7 @@
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.45999999999999996s" fill="freeze"/>
             </text>
             <text x="75" y="409.0" class="all-time-label" opacity="0">
-                All-time: 20,067
+                All-time: 20,146
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.56s" fill="freeze"/>
             </text>
 
@@ -392,7 +392,7 @@
                          begin="1.1600000000000001s" fill="freeze"/>
             </text>
             <text x="579.6179775280899" y="409.0" class="week-label" opacity="0">
-                24/wk
+                8/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.26s" fill="freeze"/>
             </text>
@@ -413,7 +413,7 @@
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.5499999999999999s" fill="freeze"/>
             </text>
             <text x="75" y="467.0" class="all-time-label" opacity="0">
-                All-time: 20,862
+                All-time: 20,972
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.6499999999999999s" fill="freeze"/>
             </text>
 
@@ -439,7 +439,7 @@
                          begin="1.25s" fill="freeze"/>
             </text>
             <text x="572.5393258426966" y="467.0" class="week-label" opacity="0">
-                34/wk
+                18/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.35s" fill="freeze"/>
             </text>
@@ -460,7 +460,7 @@
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.64s" fill="freeze"/>
             </text>
             <text x="75" y="525.0" class="all-time-label" opacity="0">
-                All-time: 13,484
+                All-time: 13,650
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.74s" fill="freeze"/>
             </text>
 
@@ -486,7 +486,7 @@
                          begin="1.34s" fill="freeze"/>
             </text>
             <text x="487.59550561797755" y="525.0" class="week-label" opacity="0">
-                10/wk
+                13/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.44s" fill="freeze"/>
             </text>
@@ -507,7 +507,7 @@
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.73s" fill="freeze"/>
             </text>
             <text x="75" y="583.0" class="all-time-label" opacity="0">
-                All-time: 6,001
+                All-time: 6,114
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.8300000000000001s" fill="freeze"/>
             </text>
 
@@ -533,7 +533,7 @@
                          begin="1.4300000000000002s" fill="freeze"/>
             </text>
             <text x="459.28089887640454" y="583.0" class="week-label" opacity="0">
-                26/wk
+                16/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.53s" fill="freeze"/>
             </text>
@@ -554,7 +554,7 @@
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.82s" fill="freeze"/>
             </text>
             <text x="75" y="641.0" class="all-time-label" opacity="0">
-                All-time: 6,847
+                All-time: 6,946
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.9199999999999999s" fill="freeze"/>
             </text>
 
@@ -580,7 +580,7 @@
                          begin="1.52s" fill="freeze"/>
             </text>
             <text x="438.0449438202247" y="641.0" class="week-label" opacity="0">
-                2/wk
+                5/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.62s" fill="freeze"/>
             </text>
@@ -601,7 +601,7 @@
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.9099999999999999s" fill="freeze"/>
             </text>
             <text x="75" y="699.0" class="all-time-label" opacity="0">
-                All-time: 3,740
+                All-time: 3,846
                 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.01s" fill="freeze"/>
             </text>
 
@@ -627,7 +627,7 @@
                          begin="1.6099999999999999s" fill="freeze"/>
             </text>
             <text x="416.80898876404495" y="699.0" class="week-label" opacity="0">
-                15/wk
+                30/wk
                 <animate attributeName="opacity" from="0" to="1" dur="0.5s"
                          begin="1.71s" fill="freeze"/>
             </text>
@@ -636,6 +636,6 @@
     <line x1="30" y1="728" x2="930" y2="728" stroke="#ffffff" stroke-opacity="0.08"/>
 
     <text x="930" y="756" text-anchor="end" fill="#6f6f9c" font-size="11">
-        generated: 2026-10-15 08:23:44 +0530 · data from PyPIStats &amp; PEPY
+        generated: 2026-10-27 12:33:54 +0530 · data from PyPIStats &amp; PEPY
     </text>
 </svg>
